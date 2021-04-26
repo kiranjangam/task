@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+/* header start */
+.headerstyle{
+    background-color:#E2EDFF ;
+
+}
+.headerstyle h5{
+    font-family: 'Montserrat', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color: rgb(53, 64, 156) !important;
+padding-left: 38px;
+/* padding: 38px 17px 17px 131px; */
+
+}
+/* header end */
+
+.classstyle h4{
+   
+width: 180px;
+height: 18px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+
+color: #000000;
+padding-left: 38px;
+
+}
+.classstyle p {
+   
+width: 578px;
+height: 51px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 12px !important;
+line-height: 15px;
+
+color: #000000;
+padding-left: 50px ;
+
+
+
+}
+
+.messagestyle h4 {
+   
+width: 180px;
+height: 18px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+
+color: #000000;
+
+    
+
+    padding-left: 38px;
+}
+.box{
+    
+width: 571px;
+height: 125px;
+
+background: #FFFFFF;
+ 
+box-sizing: border-box;
+margin-left: 49px !important;
+
+}
+.box textarea{
+    width: 570px;
+height: 125px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 16px;
+
+color: #000000;
+padding:  13px 7px ;
+
+}
+.hintstyle p{
+    /* width: 527px;
+height: 20px; */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 16px;
+
+color: #000000;
+padding: 22px 49px;
+
+
+}
+.yourstyle{
+    width: 180px;
+height: 18px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+
+color: #000000;
+padding:  0px 38px ;
+
+}
+.dollerstyle{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+
+color: #F67A06;
+padding: 15px 76px;
+
+}
+
+.btnstyle input{
+    width: 156px;
+height: 30px;
+
+background: #343C82;
+border-radius: 50px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+text-decoration: none;
+
+
+
+}
+.btnstyle button{
+    width: 156px;
+height: 30px;
+
+background: #343C82;
+border-radius: 50px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+text-decoration: none;
+
+
+
+}
+
